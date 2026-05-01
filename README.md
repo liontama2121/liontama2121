@@ -1,23 +1,114 @@
-<h1 align="center">Hi 👋, I'm JUAN CAMILO MOLINA</h1>
-<h3 align="center">🔍 Apasionado por la investigación | 💡 Entusiasta de la optimización de procesos 🛡️ Amante de la seguridad informática | 🌐 Desarrollador Frontend</h3>
+<div align="center">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=liontama2121&label=Profile%20views&color=0e75b6&style=flat" alt="liontama2121" /> </p>
+```
+// hello, world
+```
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=liontama2121" alt="liontama2121" /></a> </p>
+# Juan Camilo Molina León
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/juan-camilo-molina-le%c3%b3n-2b91a2215/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/juan-camilo-molina-le%c3%b3n-2b91a2215/" height="30" width="40" /></a>
-<a href="https://fb.com/https://www.facebook.com/juancamilo.molinaleon" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/juancamilo.molinaleon" height="30" width="40" /></a>
-<a href="https://instagram.com/https://www.instagram.com/juank2121/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/juank2121/" height="30" width="40" /></a>
-</p>
+**Architecture Expert · Data Discipline · AI Systems Engineer**
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://mariadb.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="mariadb" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> </p>
+Building intelligent backends that actually work in production.
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=liontama2121&show_icons=true&locale=en&layout=compact" alt="liontama2121" /></p>
+[![BBVA Colombia](https://img.shields.io/badge/BBVA_Colombia-Architecture_Expert-004481?style=flat-square)](https://www.bbva.com.co/)
+[![AI Specialist](https://img.shields.io/badge/Specialization-AI_Systems-10b981?style=flat-square)](https://github.com/liontama2121)
+[![JuanCode](https://img.shields.io/badge/Freelance-JuanCode-f59e0b?style=flat-square)](https://github.com/liontama2121)
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=liontama2121&show_icons=true&locale=en" alt="liontama2121" /></p>
+</div>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=liontama2121&" alt="liontama2121" /></p>
+---
 
+## 👨‍💻 About me
+
+I'm a **Systems Engineer with a specialization in AI**, working as **Architecture Expert I in the Data discipline at BBVA Colombia**. My day-to-day is designing and building RAG pipelines, LLM orchestration systems, and clean backend architectures that handle real production workloads.
+
+Under my freelance brand **JuanCode**, I help businesses build custom web and e-commerce solutions — from initial proposal to deployment.
+
+- 🏗️ Clean Architecture · Microservices · Async systems
+- 🤖 LLM orchestration · RAG · Vector search
+- 🔬 Passionate about research, process optimization, and understanding how systems fail
+- 🛡️ Information security enthusiast
+- 📍 Bogotá, Colombia
+
+---
+
+## 🛠️ Current stack
+
+### Backend & AI
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square)
+![Celery](https://img.shields.io/badge/Celery-37814A?style=flat-square&logo=celery&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![Spring](https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=spring&logoColor=white)
+
+### Data & Search
+![OpenSearch](https://img.shields.io/badge/OpenSearch-005EB8?style=flat-square&logo=opensearch&logoColor=white)
+![DynamoDB](https://img.shields.io/badge/DynamoDB-4053D6?style=flat-square&logo=amazondynamodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=flat-square&logo=mysql&logoColor=white)
+
+### Cloud & Infrastructure
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+
+### Frontend
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js&logoColor=white)
+![WordPress](https://img.shields.io/badge/WordPress-21759B?style=flat-square&logo=wordpress&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+
+---
+
+## 🚀 Featured projects
+
+### 📸 Inaldo Photography — Sports & Events Portfolio
+> Professional photography portfolio · [inalperphotography.com](https://inalperphotography.com)
+
+Full portfolio website for **Inaldo Pérez**, a professional sports photographer with coverage in rugby, athletics, swimming, taekwondo, gymnastics, surfing, and more. Published work with major Colombian and international media outlets including **AFP, El Tiempo, Caracol TV, and RCN**.
+
+Built with WordPress, custom theme configuration, and gallery management. Sports documented include the South American Games, World Games, and national-level competitions across Colombia.
+
+`WordPress` `Web Design` `Photography Portfolio` `Gallery` `Sports`
+
+---
+
+### 🛒 JuanCode — Web & E-commerce Solutions
+> Freelance web development brand
+
+Custom web development for businesses: e-commerce platforms, WordPress/Wix deployments, and full project lifecycle from commercial proposal to production delivery.
+
+`React` `Node.js` `WordPress` `Wix` `E-commerce` `JavaScript`
+
+---
+
+## 📊 GitHub stats
+
+<div align="center">
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=liontama2121&show_icons=true&locale=en&layout=compact&theme=github_dark&hide_border=true)
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=liontama2121&show_icons=true&locale=en&theme=github_dark&hide_border=true)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=liontama2121&theme=github-dark-blue&hide_border=true)
+
+</div>
+
+---
+
+## 🤝 Connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Juan_Camilo_Molina-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/juan-camilo-molina-le%c3%b3n-2b91a2215/)
+[![GitHub](https://img.shields.io/badge/GitHub-liontama2121-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/liontama2121)
+[![Instagram](https://img.shields.io/badge/Instagram-juank2121-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/juank2121/)
+
+---
+
+<div align="center">
+  <sub>Architecture Expert · Bogotá, Colombia · Open to collaborations</sub>
+</div>
