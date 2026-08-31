@@ -10,7 +10,7 @@
 
 Building intelligent backends that actually work in production.
 
-[![BBVA Colombia](https://img.shields.io/badge/Architecture_Expert-004481?style=flat-square)](https://www.bbva.com.co/)
+[![BBVA Colombia](https://img.shields.io/badge/Architecture_Expert-004481?style=flat-square)]()
 [![AI Specialist](https://img.shields.io/badge/Specialization-AI_Systems-10b981?style=flat-square)](https://github.com/liontama2121)
 [![JuanCode](https://img.shields.io/badge/Freelance-JuanCode-f59e0b?style=flat-square)](https://github.com/liontama2121)
 
@@ -20,7 +20,7 @@ Building intelligent backends that actually work in production.
 
 ## 👨‍💻 About me
 
-I'm a **Systems Engineer with a specialization in AI**, working as **Architecture Expert I in the Data discipline at BBVA Colombia**. My day-to-day is designing and building RAG pipelines, LLM orchestration systems, and clean backend architectures that handle real production workloads.
+I'm a **Systems Engineer with a specialization in AI**, working as **Architecture Expert **. My day-to-day is designing and building RAG pipelines, LLM orchestration systems, and clean backend architectures that handle real production workloads.
 
 Under my freelance brand **JuanCode**, I help businesses build custom web and e-commerce solutions — from initial proposal to deployment.
 
