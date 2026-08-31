@@ -10,7 +10,7 @@
 
 Building intelligent backends that actually work in production.
 
-[![BBVA Colombia](https://img.shields.io/badge/BBVA_Colombia-Architecture_Expert-004481?style=flat-square)](https://www.bbva.com.co/)
+[![BBVA Colombia](https://img.shields.io/badge/Architecture_Expert-004481?style=flat-square)](https://www.bbva.com.co/)
 [![AI Specialist](https://img.shields.io/badge/Specialization-AI_Systems-10b981?style=flat-square)](https://github.com/liontama2121)
 [![JuanCode](https://img.shields.io/badge/Freelance-JuanCode-f59e0b?style=flat-square)](https://github.com/liontama2121)
 
